@@ -1,3 +1,9 @@
+import { Button } from '@/components/ui/button';
+
 export default async function Home() {
-  return <h1 className='text-3xl font-bold underline'>Hello world!</h1>;
+  return (
+    <main>
+      <Button variant='destructive'>Click me</Button>
+    </main>
+  );
 }
