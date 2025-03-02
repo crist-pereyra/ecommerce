@@ -15,6 +15,13 @@
       "when": 1740587255070,
       "tag": "0001_naive_skaar",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1740757276185,
+      "tag": "0002_brown_wild_pack",
+      "breakpoints": true
     }
   ]
 }
